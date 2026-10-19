@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://salonfr.dokuwell.com/sitemap.xml
